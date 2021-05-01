@@ -1,2 +1,2 @@
 # Digital_Pharmacy
-NUS project
+NUS ISS First Project
